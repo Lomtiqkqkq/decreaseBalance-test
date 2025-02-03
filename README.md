@@ -19,7 +19,7 @@
     |           
     +---infrastructure
     |   +---controller
-    |   |       user-purchase.controller.ts # rest контроллер для входящего запроса по endpoint
+    |   |       user-purchase.controller.ts # rest контроллер для входящего запроса
     |   |       
     |   +---database
     |   |       typeorm.config.service.ts # конфиг orm
